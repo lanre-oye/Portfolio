@@ -1,6 +1,6 @@
 title: "Olanrewaju Oyebanji"
 description: "Data Analyst | Educator | Life-Long Learner"
-logo: assets/img/avatar.png.png
+logo:https://github.com/lanre-oye/Portfolio/blob/87263f91aebcfd4595a30e21f96dc8b9da8b0dd5/assets/img/avatar.png.png
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -10,7 +10,7 @@ plugins:
 
 author:
   name: "Olanrewaju Oyebanji"
-  avatar:assets/img/avatar.png.png
+  avatar:https://github.com/lanre-oye/Portfolio/blob/87263f91aebcfd4595a30e21f96dc8b9da8b0dd5/assets/img/avatar.png.png
   bio: "Data Analyst | Educator | Life-Long Learner"
   links:
     - label: "GitHub"
