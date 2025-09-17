@@ -3,11 +3,10 @@ layout: double
 title: "Portfolio"
 ---
 ## Welcome
-Hi, I’m **Olanrewaju Oyebanji** — Data Analyst, Educator, and Life-Long Learner.
+Hi, I’m **Olanrewaju Oyebanji** a Data Analyst, Educator, and Life-Long Learner.
 
 This portfolio showcases some of my work and experiences.
 ---
-## Contact
 You can connect with me on [LinkedIn](www.linkedin.com/in/lanreoye) or check out more on [GitHub](https://github.com/lanre-oye).
 ---
 ## Projects
