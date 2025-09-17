@@ -3,12 +3,7 @@ description: Data Analyst | Educator | Life-Long Learner
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-
+  - jekyll-include-cache
 # Author sidebar info
 author:
   name   : "Olanrewaju Oyebanji"
