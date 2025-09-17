@@ -1,29 +1,29 @@
 title: Olanrewaju Oyebanji
 description: Data Analyst | Educator | Life-Long Learner
+
 remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
-# Author sidebar info
+
 author:
   name   : "Olanrewaju Oyebanji"
-  avatar : "/assets/img/avatar.png"
+  avatar : "/assets/img/avatar.png"   # optional, add your image in /assets/img/
   bio    : "Data Analyst | Educator | Life-Long Learner"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOURUSERNAME"
+      url: "https://github.com/lanre-oye"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/YOURUSERNAME"
+      url: "https://www.linkedin.com/in/lanreoye"
 
-# Layout defaults
 defaults:
   - scope:
       path: ""
       type: "pages"
     values:
-      layout: single
-      sidebar:
-        nav: "main"
-
+      layout: double
+      toc: true
+      toc_sticky: true
