@@ -9,7 +9,7 @@ plugins:
 
 author:
   name   : "Olanrewaju Oyebanji"
-  avatar : "/assets/img/avatar.png"   # optional, add your image in /assets/img/
+  avatar : Larry profile pics.png
   bio    : "Data Analyst | Educator | Life-Long Learner"
   links:
     - label: "GitHub"
