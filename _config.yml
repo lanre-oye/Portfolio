@@ -1,6 +1,6 @@
 title: "Olanrewaju Oyebanji"
 description: "Data Analyst | Educator | Life-Long Learner"
-logo: "/assets/img/avatar.png.png"
+logo: assets/img/avatar.png.png
 
 remote_theme: "mmistakes/minimal-mistakes"
 
@@ -10,7 +10,7 @@ plugins:
 
 author:
   name: "Olanrewaju Oyebanji"
-  avatar: "/assets/img/avatar.png.png"   # notice the space removed after colon
+  avatar:assets/img/avatar.png.png
   bio: "Data Analyst | Educator | Life-Long Learner"
   links:
     - label: "GitHub"
