@@ -1,1 +1,34 @@
+title: Olanrewaju Oyebanji
+description: Data Analyst | Educator | Life-Long Learner
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# Author sidebar info
+author:
+  name   : "Olanrewaju Oyebanji"
+  avatar : "/assets/img/avatar.png"
+  bio    : "Data Analyst | Educator | Life-Long Learner"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/YOURUSERNAME"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOURUSERNAME"
+
+# Layout defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      sidebar:
+        nav: "main"
 
