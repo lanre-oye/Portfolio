@@ -1,16 +1,17 @@
-title: Olanrewaju Oyebanji
-description: Data Analyst | Educator | Life-Long Learner
-logo: "/assets/img/avatar.png.png"
-remote_theme: mmistakes/minimal-mistakes
+title: "Olanrewaju Oyebanji"
+description: "Data Analyst | Educator | Life-Long Learner"
+logo: "/assets/img/avatar.png"
+
+remote_theme: "mmistakes/minimal-mistakes"
 
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
 author:
-  name   : "Olanrewaju Oyebanji"
-  avatar :"/assets/img/avatar.png.png"
-  bio    : "Data Analyst | Educator | Life-Long Learner"
+  name: "Olanrewaju Oyebanji"
+  avatar: "/assets/img/avatar.png"   # notice the space removed after colon
+  bio: "Data Analyst | Educator | Life-Long Learner"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
