@@ -14,5 +14,5 @@ This portfolio showcases some of my work and experiences.
 - [Project 2](https://github.com/lanre-oye/project2)
 - [Project 3](https://github.com/lanre-oye/project3)
 
-  You can connect with me on [LinkedIn](https://www.linkedin.com/in/lanreoye) or check out more on [GitHub](https://github.com/lanre-oye).
-  📧 Email: Olanrewajuoyebanji1992@gmail.com
+  You can connect with me on [LinkedIn](https://www.linkedin.com/in/lanreoye) ,[Gmail](Olanrewajuoyebanji1992@gmail.com) or check out more     on [GitHub](https://github.com/lanre-oye)
+ 
