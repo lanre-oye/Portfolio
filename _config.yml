@@ -1,6 +1,6 @@
 title: Olanrewaju Oyebanji
 description: Data Analyst | Educator | Life-Long Learner
-logo :assets/img/"Larry profile pics.png"
+logo: "/assets/img/avatar.png"
 remote_theme: mmistakes/minimal-mistakes
 
 plugins:
@@ -9,7 +9,7 @@ plugins:
 
 author:
   name   : "Olanrewaju Oyebanji"
-  avatar : assets/img/"Larry profile pics.png"
+  avatar :"/assets/img/avatar.png"
   bio    : "Data Analyst | Educator | Life-Long Learner"
   links:
     - label: "GitHub"
